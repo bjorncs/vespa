@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 3
+  "prHourlyLimit": 3,
+  "ignorePaths": ["jdisc_core_test"]
 }
