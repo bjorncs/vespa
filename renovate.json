@@ -10,5 +10,6 @@
     "com.yahoo.vespa.jdisc_core:test_bundles",
     "javax.servlet:javax.servlet-api"
   ],
-  "prConcurrentLimit": 150
+  "prConcurrentLimit": 150,
+  "transitiveRemediation": true
 }
