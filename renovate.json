@@ -3,13 +3,13 @@
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 150,
+  "prHourlyLimit": 200,
   "ignorePaths": [],
   "ignoreDeps": [
     "com.yahoo.vespa.bundle-plugin:test-bundles",
     "com.yahoo.vespa.jdisc_core:test_bundles",
     "javax.servlet:javax.servlet-api"
   ],
-  "prConcurrentLimit": 150,
+  "prConcurrentLimit": 200,
   "transitiveRemediation": true
 }
