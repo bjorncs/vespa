@@ -4,7 +4,11 @@
     "config:base"
   ],
   "prHourlyLimit": 150,
-  "ignorePaths": ["jdisc_core_test/", "bundle-plugin-test/"],
-  "ignoreDeps": ["javax.servlet:javax.servlet-api"],
+  "ignorePaths": [],
+  "ignoreDeps": [
+    "com.yahoo.vespa.bundle-plugin:test-bundles",
+    "com.yahoo.vespa.jdisc_core:test_bundles",
+    "javax.servlet:javax.servlet-api"
+  ],
   "prConcurrentLimit": 150
 }
