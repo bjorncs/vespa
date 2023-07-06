@@ -3,6 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 10,
-  "ignorePaths": ["jdisc_core_test/", "bundle-plugin-test/"]
+  "prHourlyLimit": 150,
+  "ignorePaths": ["jdisc_core_test/", "bundle-plugin-test/"],
+  "prConcurrentLimit": 150
 }
