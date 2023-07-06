@@ -1147,7 +1147,7 @@
         <commons.math3.version>3.6.1</commons.math3.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
         <felix.version>7.0.1</felix.version>
-        <felix.log.version>1.0.1</felix.log.version>
+        <felix.log.version>1.3.0</felix.log.version>
         <findbugs.version>3.0.2</findbugs.version> <!-- Should be kept in sync with guava -->
         <hdrhistogram.version>2.1.12</hdrhistogram.version>
         <jetty.version>11.0.15</jetty.version>
