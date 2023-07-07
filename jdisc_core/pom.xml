@@ -39,7 +39,7 @@
             <!-- Newer version than the one in rt.jar, including the ElementTraversal class needed by Xerces (Aug 2015, still valid Sep 2017) -->
             <groupId>xml-apis</groupId>
             <artifactId>xml-apis</artifactId>
-            <version>1.4.01</version>
+            <version>2.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
