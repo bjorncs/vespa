@@ -250,7 +250,7 @@
         <javax.ws.rs-api.version>2.0.1</javax.ws.rs-api.version>
         <jaxb.version>2.3.0</jaxb.version>
         <slf4j.version>1.7.32</slf4j.version> <!-- WARNING: when updated, also update c.y.v.tenant:base pom -->
-        <xml-apis.version>1.4.01</xml-apis.version>
+        <xml-apis.version>2.0.2</xml-apis.version>
 
         <!-- Not a dependency. Only included to allow the versions-maven-plugin to check for updates of itself  -->
         <versions-maven-plugin.version>2.8.1</versions-maven-plugin.version>
