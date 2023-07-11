@@ -27,7 +27,7 @@
     "esbuild-jest": "^0",
     "eslint": "^8",
     "eslint-plugin-import": "^2",
-    "eslint-plugin-prettier": "^4",
+    "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-react": "^7",
     "eslint-plugin-react-hooks": "^4",
     "eslint-plugin-react-perf": "^3",
