@@ -975,7 +975,7 @@
             <dependency>
                 <groupId>org.glassfish.jaxb</groupId>
                 <artifactId>jaxb-runtime</artifactId>
-                <version>2.3.2</version> <!-- 2.3.3 has a BROKEN manifest -->
+                <version>2.3.9</version> <!-- 2.3.3 has a BROKEN manifest -->
             </dependency>
             <dependency>
                 <groupId>org.hamcrest</groupId>
