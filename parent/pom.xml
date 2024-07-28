@@ -1172,7 +1172,7 @@
         <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
         <maven-shade-plugin.version>3.4.1</maven-shade-plugin.version>
         <maven-site-plugin.version>3.9.1</maven-site-plugin.version>
-        <maven-source-plugin.version>3.2.1</maven-source-plugin.version>
+        <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
         <maven-wagon.version>2.10</maven-wagon.version>
         <mockito.version>4.0.0</mockito.version>
         <netty.version>4.1.94.Final</netty.version>
