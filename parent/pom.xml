@@ -1186,7 +1186,7 @@
         <surefire.version>3.0.0-M9</surefire.version>
         <wiremock.version>2.35.0</wiremock.version>
         <zero-allocation-hashing.version>0.16</zero-allocation-hashing.version>
-        <zookeeper.client.version>3.8.0</zookeeper.client.version>
+        <zookeeper.client.version>3.9.3</zookeeper.client.version>
 
         <doclint>all</doclint>
         <test.hide>true</test.hide>
