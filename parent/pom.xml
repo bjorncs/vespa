@@ -1143,7 +1143,7 @@
         <bouncycastle.version>1.74</bouncycastle.version>
         <curator.version>5.4.0</curator.version>
         <commons-codec.version>1.15</commons-codec.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.18.0</commons-io.version>
         <commons.math3.version>3.6.1</commons.math3.version>
         <eclipse-collections.version>11.0.0</eclipse-collections.version>
         <felix.version>7.0.1</felix.version>
