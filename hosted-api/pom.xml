@@ -8,7 +8,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>com.yahoo.vespa</groupId>
-        <version>8-SNAPSHOT</version>
+        <version>8.465.15</version>
 	<relativePath>../parent/pom.xml</relativePath>
     </parent>
     <artifactId>hosted-api</artifactId>
