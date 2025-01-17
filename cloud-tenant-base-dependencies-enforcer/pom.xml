@@ -8,7 +8,7 @@
     <parent>
         <groupId>com.yahoo.vespa</groupId>
         <artifactId>cloud-tenant-base</artifactId>
-        <version>8-SNAPSHOT</version>
+        <version>8.465.15</version>
         <relativePath>../cloud-tenant-base/pom.xml</relativePath>
     </parent>
 
