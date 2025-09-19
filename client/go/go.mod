@@ -13,7 +13,7 @@ require (
 	github.com/mattn/go-isatty v0.0.18
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/spf13/cobra v1.7.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.8.2
 	github.com/zalando/go-keyring v0.2.2
 	golang.org/x/net v0.9.0
